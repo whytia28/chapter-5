@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TugasChapter5</string>
+    <string name="masukkan_nama">Masukkan nama</string>
+    <string name="intent_explicit">Intent explicit</string>
+    <string name="masukkan_alamat">Masukkan alamat</string>
+    <string name="intent_bundle">Intent bundle</string>
+    <string name="intent_parcelable">Intent Parcelable</string>
+    <string name="intent_implicit">intent implicit</string>
+    <string name="nama">Nama :</string>
+    <string name="nama_saya">nama saya</string>
+    <string name="alamat">Alamat :</string>
+    <string name="alamat_saya">Alamat saya</string>
+    <string name="kirim_ke">Kirim pesan kepada</string>
+</resources>
